@@ -1,0 +1,38 @@
+# Logs and databases #
+######################
+*.log
+*.sql
+*.sqlite
+
+# OS generated files #
+######################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+
+/.htaccess
+/license.txt
+/readme.html
+/sitemap.xml
+/sitemap.xml.gz
+
+# Grunt intermediate storage (https://gruntjs.com/creating-plugins#storing-task-files) #
+########################################################################################
+.grunt
+
+# Bower dependency directory (https://bower.io/) #
+##################################################
+bower_components
+
+# Optional npm cache directory #
+################################
+.npm
+
+# Node modules dependencies #
+################
+node_modules/
