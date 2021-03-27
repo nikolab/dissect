@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22b1d13b-b58e-466e-89df-d5f5e95e609b" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/assets/src/scss/base/_general.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/src/scss/base/_general.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/scss/typography/_fonts.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/src/scss/typography/_fonts.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/scss/typography/_typo.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/src/scss/typography/_typo.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/scss/variables/_typo-var.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/src/scss/variables/_typo-var.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/partials/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/partials/header.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/scss/variables/_grid-var.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/src/scss/variables/_grid-var.scss" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -34,7 +30,7 @@
           <entry key="js" value="4" />
           <entry key="json" value="2" />
           <entry key="php" value="5" />
-          <entry key="scss" value="8" />
+          <entry key="scss" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
@@ -45,7 +41,7 @@
           <entry key="JavaScript" value="4" />
           <entry key="PHP" value="5" />
           <entry key="PLAIN_TEXT" value="1" />
-          <entry key="SCSS" value="8" />
+          <entry key="SCSS" value="12" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.edit">
@@ -53,7 +49,7 @@
           <entry key="js" value="85" />
           <entry key="json" value="22" />
           <entry key="php" value="333" />
-          <entry key="scss" value="229" />
+          <entry key="scss" value="231" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
@@ -61,22 +57,13 @@
           <entry key="JSON" value="22" />
           <entry key="JavaScript" value="85" />
           <entry key="PHP" value="333" />
-          <entry key="SCSS" value="229" />
+          <entry key="SCSS" value="231" />
         </counts>
       </usages-collector>
     </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="11" selection-start-line="13" selection-start-column="11" selection-end-line="13" selection-end-column="11" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/partials/top.php">
           <provider selected="true" editor-type-id="text-editor">
@@ -116,8 +103,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/src/scss/variables/_typo-var.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="176">
-              <caret line="32" column="11" selection-start-line="32" selection-end-line="32" selection-end-column="11" />
+            <state relative-caret-position="164">
+              <caret line="30" column="6" selection-start-line="30" selection-start-column="6" selection-end-line="30" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -125,17 +112,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/src/scss/typography/_typo.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="226">
+            <state relative-caret-position="1421">
               <caret line="106" column="1" lean-forward="true" selection-start-line="106" selection-start-column="1" selection-end-line="106" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/src/scss/base/_general.scss">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="77">
               <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/assets/src/scss/variables/_grid-var.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="14" column="51" lean-forward="true" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
             </state>
           </provider>
         </entry>
@@ -195,6 +191,7 @@
         <option value="$PROJECT_DIR$/assets/src/scss/typography/_fonts.scss" />
         <option value="$PROJECT_DIR$/assets/src/scss/typography/_typo.scss" />
         <option value="$PROJECT_DIR$/assets/src/scss/base/_general.scss" />
+        <option value="$PROJECT_DIR$/assets/src/scss/variables/_grid-var.scss" />
       </list>
     </option>
   </component>
@@ -261,7 +258,7 @@
               <item name="assets" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="scss" type="462c0819:PsiDirectoryNode" />
-              <item name="base" type="462c0819:PsiDirectoryNode" />
+              <item name="grid" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="dissect" type="b2602c69:ProjectViewProjectNode" />
@@ -325,12 +322,12 @@
       <workItem from="1616512465094" duration="3590000" />
       <workItem from="1616593200544" duration="2162000" />
       <workItem from="1616689906152" duration="2818000" />
-      <workItem from="1616757010367" duration="1166000" />
+      <workItem from="1616757010367" duration="1325000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9932000" />
+    <option name="totallyTimeSpent" value="10091000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1440" height="875" extended-state="6" />
@@ -349,7 +346,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.3976834" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.22265123" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -440,31 +437,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/partials/main.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="11" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/partials/footer.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="75">
           <caret line="5" column="7" selection-start-line="5" selection-start-column="7" selection-end-line="5" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/partials/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/src/scss/variables/_typo-var.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="176">
-          <caret line="32" column="11" selection-start-line="32" selection-end-line="32" selection-end-column="11" />
         </state>
       </provider>
     </entry>
@@ -481,17 +457,58 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/partials/main.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="11" selection-start-line="1" selection-start-column="4" selection-end-line="1" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partials/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/src/scss/variables/_typo-var.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="164">
+          <caret line="30" column="6" selection-start-line="30" selection-start-column="6" selection-end-line="30" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/assets/src/scss/typography/_typo.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="226">
+        <state relative-caret-position="1421">
           <caret line="106" column="1" lean-forward="true" selection-start-line="106" selection-start-column="1" selection-end-line="106" selection-end-column="1" />
         </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/src/scss/grid/_grid.scss">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/src/scss/grid/_grid-functions.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-528" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/src/scss/grid/_layout.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-358" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/src/scss/base/_general.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="77">
           <caret line="14" column="18" selection-start-line="14" selection-start-column="18" selection-end-line="14" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/src/scss/variables/_grid-var.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="51" lean-forward="true" selection-start-line="14" selection-start-column="51" selection-end-line="14" selection-end-column="51" />
         </state>
       </provider>
     </entry>
