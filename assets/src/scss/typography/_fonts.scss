@@ -1,5 +1,14 @@
 //Use $font-path as path to fonts folder
 
+/* TT Hoves */
+@font-face {
+	font-family: 'TT Hoves';
+	src: local('TT Hoves'), local('TT Hoves'),
+	url('#{$font-path}/TTHovesLight/font.woff') format('woff'),
+	url('#{$font-path}/TTHovesLight/font.woff2') format('woff2');
+	font-weight: bold;
+	font-style: normal;
+}
 
 /* Roboto */
 @font-face {

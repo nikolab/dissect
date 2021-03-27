@@ -14,6 +14,6 @@
                     <li class="menu-item"><a href="">Contact</a></li>
                 </ul>
             </div>
-            <div class="logo"><img src="" alt="" class="logo-img"></div>
+            <div class="logo"><img src="/assets/images/dissect-logo.png" alt="dissect-logo" class="logo-img"></div>
         </div>
 	</header>
