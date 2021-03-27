@@ -1,7 +1,7 @@
 <?php
 
-require 'partials/top.php';
+require 'partials/head.php';
 require 'partials/header.php';
-require 'partials/main.php';
+require 'templates/homepage.php';
 require 'partials/footer.php';
 

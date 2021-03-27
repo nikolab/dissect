@@ -104,6 +104,8 @@ a {
 	@media #{$lp-down} {
 		font-size: 14px;
 	}
+	color: $white;
+	text-decoration: underline;
 }
 
 body {
