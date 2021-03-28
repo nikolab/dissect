@@ -1,3 +1,60 @@
 // -----------------------------------------------------------------------------
 // This file contains all styles related to the footer.
 // -----------------------------------------------------------------------------
+
+.main-footer {
+  height: 100vh;
+
+  .wrapper-full {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 100%;
+  }
+}
+
+.footer-top {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+  h1 {
+    margin-bottom: 50px;
+  }
+
+  a {
+    margin-right: 20px;
+  }
+}
+
+.footer-bottom,
+.social-links {
+  display: flex;
+  flex-direction: row;
+}
+
+.footer-bottom {
+  margin-top: auto;
+}
+
+.footer-email {
+  text-decoration: none;
+}
+
+.social-links {
+  margin-left: auto;
+  margin-right: 115px;
+
+  li {
+    margin-right: 50px;
+
+    &:last-of-type {
+      margin-right: 0;
+    }
+    
+    a {
+      text-decoration: none;
+    }
+  }
+}
