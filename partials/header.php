@@ -7,7 +7,7 @@
                     <div class="site-description">Branding and Design Studio Extraordinaire.</div>
                 </div>
                 <div class="tb-7 nav-links-logo">
-                    <div class="nav-bar">
+                    <div class="tb-10 nav-bar">
                         <ul class="menu">
                             <li class="menu-item"><a href="">Projects</a></li>
                             <li class="menu-item"><a href="">Disciplines</a></li>
@@ -16,7 +16,7 @@
                             <li class="menu-item"><a href="">Contact</a></li>
                         </ul>
                     </div>
-                    <div class="logo">
+                    <div class="tb-2 logo">
                         <img src="./assets/images/dissect-logo.png" alt="dissect-logo" class="logo-img">
                     </div>
                 </div>

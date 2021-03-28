@@ -1,3 +1,42 @@
 // -----------------------------------------------------------------------------
 // This file contains all styles related to the header.
 // -----------------------------------------------------------------------------
+
+.main-header {
+  padding-top: 15px;
+  padding-bottom: 15px;
+}
+
+.site-info,
+.nav-links-logo,
+.menu {
+  display: flex;
+  flex-direction: row;
+}
+
+.site-info {
+  justify-content: space-between;
+}
+
+.nav-links-logo,
+.menu {
+  justify-content: flex-end;
+}
+
+.menu {
+  li {
+    margin-right: 35px;
+  
+    &:last-of-type {
+      margin-right: 0;
+    }
+    
+    a {
+      text-decoration: none;
+    }
+  }
+}
+
+.logo img {
+  margin-left: auto;
+}
