@@ -2,6 +2,30 @@
 // This file contains all styles related to the home page.
 // -----------------------------------------------------------------------------
 
-.md-6 {
-	border: 1px solid red;
+.work-title {
+	margin-bottom: 200px;
+}
+
+.work-example {
+	margin-bottom: 160px;
+}
+
+.work-example-full img {
+	width: 100%;
+}
+
+.work-info {
+	display: flex;
+	justify-content: space-between;
+	align-items: baseline;
+	margin-top: 15px;
+}
+
+.work-links {
+	display: flex;
+	margin-top: 60px;
+
+	li {
+		margin-right: 35px;
+	}
 }

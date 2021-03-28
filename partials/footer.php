@@ -2,9 +2,7 @@
 		<footer class="main-footer">
             <div class="wrapper-full">
                 <div class="footer-top">
-                    <h1>Does your Brand need Creative <br/>
-                        and Strategic Injection?
-                    </h1>
+                    <h1>Does your Brand need Creative <br/>and Strategic Injection?</h1>
                     <div class="footer-quick-links">
                         <a href="">Contact Us</a>
                         <a href="">Testimonials</a>

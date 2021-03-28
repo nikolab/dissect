@@ -65,9 +65,6 @@ h3 {
 
 h2 {
 	font-size: em($h2);
-	text-align: center;
-	margin-bottom: 40px;
-	
 	
 	@media #{$tb-up} {
 		font-size: em($h2-tb);

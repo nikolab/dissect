@@ -1,0 +1,14 @@
+.hero {
+  position: relative;
+  height: 80vh;
+
+  .wrapper-full,
+  .holder {
+    height: 100%;
+  }
+
+  .hero-heading {
+    @include vertical-align;
+    position:absolute;
+  }
+}
