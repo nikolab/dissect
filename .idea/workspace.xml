@@ -2,16 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22b1d13b-b58e-466e-89df-d5f5e95e609b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/assets/src/scss/modules/_hero.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/css/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css.map" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/src/scss/mixins/_mixins.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/src/scss/mixins/_mixins.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/scss/modules/_modules.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/src/scss/modules/_modules.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/assets/src/scss/modules/_hero.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/src/scss/modules/_hero.scss" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assets/src/scss/pages/_home.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/src/scss/pages/_home.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/scss/typography/_typo.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/src/scss/typography/_typo.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/scss/variables/_typo-var.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/src/scss/variables/_typo-var.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/partials/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/partials/footer.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/templates/homepage.php" beforeDir="false" afterPath="$PROJECT_DIR$/templates/homepage.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -58,16 +53,16 @@
         <counts>
           <entry key="js" value="85" />
           <entry key="json" value="22" />
-          <entry key="php" value="1369" />
-          <entry key="scss" value="966" />
+          <entry key="php" value="1409" />
+          <entry key="scss" value="1071" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="JSON" value="22" />
           <entry key="JavaScript" value="85" />
-          <entry key="PHP" value="1369" />
-          <entry key="SCSS" value="966" />
+          <entry key="PHP" value="1409" />
+          <entry key="SCSS" value="1071" />
         </counts>
       </usages-collector>
     </session>
@@ -101,11 +96,11 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/homepage.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="120">
+              <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="32" />
             </state>
           </provider>
         </entry>
@@ -122,8 +117,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/src/scss/modules/_hero.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="165">
-              <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+            <state relative-caret-position="150">
+              <caret line="10" column="28" lean-forward="true" selection-start-line="10" selection-end-line="11" />
             </state>
           </provider>
         </entry>
@@ -131,17 +126,17 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/src/scss/mixins/_mixins.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="260">
-              <caret line="71" column="21" selection-start-line="71" selection-start-column="7" selection-end-line="71" selection-end-column="21" />
+            <state relative-caret-position="437">
+              <caret line="82" column="22" selection-start-line="82" selection-start-column="22" selection-end-line="82" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/assets/src/scss/pages/_home.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="45">
-              <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            <state relative-caret-position="224">
+              <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
             </state>
           </provider>
         </entry>
@@ -195,11 +190,11 @@
         <option value="$PROJECT_DIR$/assets/src/scss/variables/_typo-var.scss" />
         <option value="$PROJECT_DIR$/partials/footer.php" />
         <option value="$PROJECT_DIR$/assets/src/scss/typography/_typo.scss" />
-        <option value="$PROJECT_DIR$/assets/src/scss/pages/_home.scss" />
         <option value="$PROJECT_DIR$/assets/src/scss/modules/_modules.scss" />
         <option value="$PROJECT_DIR$/assets/src/scss/mixins/_mixins.scss" />
         <option value="$PROJECT_DIR$/assets/src/scss/modules/_hero.scss" />
         <option value="$PROJECT_DIR$/templates/homepage.php" />
+        <option value="$PROJECT_DIR$/assets/src/scss/pages/_home.scss" />
       </list>
     </option>
   </component>
@@ -323,18 +318,18 @@
       <workItem from="1616512465094" duration="3590000" />
       <workItem from="1616593200544" duration="2162000" />
       <workItem from="1616689906152" duration="2818000" />
-      <workItem from="1616757010367" duration="10422000" />
+      <workItem from="1616757010367" duration="10825000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19188000" />
+    <option name="totallyTimeSpent" value="19591000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1440" height="875" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26037195" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26037195" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -347,7 +342,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.33075932" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.33075932" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -537,27 +532,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/assets/src/scss/pages/_home.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/src/scss/mixins/_mixins.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="260">
-          <caret line="71" column="21" selection-start-line="71" selection-start-column="7" selection-end-line="71" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/assets/src/scss/modules/_hero.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="22" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/assets/src/scss/modules/_modules.scss">
       <provider selected="true" editor-type-id="text-editor">
         <state>
@@ -565,10 +539,31 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/assets/src/scss/mixins/_mixins.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="437">
+          <caret line="82" column="22" selection-start-line="82" selection-start-column="22" selection-end-line="82" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/templates/homepage.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        <state relative-caret-position="120">
+          <caret line="8" column="23" lean-forward="true" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/src/scss/modules/_hero.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="28" lean-forward="true" selection-start-line="10" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/src/scss/pages/_home.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="224">
+          <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
         </state>
       </provider>
     </entry>

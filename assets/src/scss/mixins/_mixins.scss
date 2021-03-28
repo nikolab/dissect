@@ -70,7 +70,7 @@
 ------------------------------*/
 
 @mixin vertical-align {
-	position: relative;
+	position: absolute;
 	top: 50%;
 	transform: translate( 0, -50%);
 }
@@ -80,7 +80,7 @@
 ------------------------------*/
 
 @mixin horizontal-align {
-	position: relative;
+	position: absolute;
 	left: 50%;
 	transform: translate(-50%, 0);
 }

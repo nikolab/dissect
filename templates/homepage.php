@@ -5,7 +5,8 @@
 </section>
 <section class="home-reel">
 	<div class="wrapper-full">
-		<div class="holder">
+		<div class="holder video-holder">
+			<h4 class="video-cta">Play Video</h4>
 			<img src="./assets/images/video-reel-placeholder.jpg" alt="" class="tb-12 video-reel">
 		</div>
 			<div class="reel-info holder">

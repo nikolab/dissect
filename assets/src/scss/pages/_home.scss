@@ -2,6 +2,20 @@
 // This file contains all styles related to the home page.
 // -----------------------------------------------------------------------------
 
+.reel-info {
+	margin-bottom: 250px
+}
+
+.video-holder {
+	position: relative;
+}
+
+.video-cta {
+	@include centerer;
+	z-index: 1;
+	text-decoration: underline;
+}
+
 .work-title {
 	margin-bottom: 200px;
 }
