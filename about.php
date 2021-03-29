@@ -1,7 +1,7 @@
 <?php
-define('TITLE', 'Dissect | Home');
+define('TITLE', 'Dissect | About');
 require 'partials/head.php';
 require 'partials/header.php';
-require 'templates/homepage.php';
+require 'templates/about-template.php';
 require 'partials/footer.php';
 
