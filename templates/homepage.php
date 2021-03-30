@@ -1,8 +1,3 @@
-<section class="hero">
-	<div class="wrapper-full">
-		<h1 class="hero-heading"> We Build and Transform <br> Brands and Experiences.</h1>
-	</div>
-</section>
 <section class="home-reel">
 	<div class="wrapper-full">
 		<div class="holder video-holder">

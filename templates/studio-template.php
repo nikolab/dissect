@@ -1,8 +1,3 @@
-<section class="hero">
-	<div class="wrapper-full">
-		<h1 class="hero-heading"> We are driven by evolution and <br> evolution of your Brand is our job.</h1>
-	</div>
-</section>
 <section class="about-reel">
 	<div class="wrapper-full">
 		<div class="holder img-holder">

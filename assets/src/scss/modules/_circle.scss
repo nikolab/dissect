@@ -1,0 +1,22 @@
+.circle {
+  border-radius: 50%;
+  border: 1px solid $white;
+  width: 400px;
+  height: 400px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+
+  &::before {
+    content: '';
+    display: block;
+    position: absolute;
+    left: 0;
+    top: 0;
+    z-index: 1;
+    color: $white;
+    background: #1c1c1c;
+    padding: 25px;
+  }
+}
