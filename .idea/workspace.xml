@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="22b1d13b-b58e-466e-89df-d5f5e95e609b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/projects.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/projects-template.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/css/style.css.map" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css.map" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/scss/pages/_pages.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/src/scss/pages/_pages.scss" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/assets/src/scss/pages/_projects.scss" beforeDir="false" afterPath="$PROJECT_DIR$/assets/src/scss/pages/_projects.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/partials/header.php" beforeDir="false" afterPath="$PROJECT_DIR$/partials/header.php" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -37,7 +31,7 @@
           <entry key="html" value="1" />
           <entry key="js" value="4" />
           <entry key="json" value="2" />
-          <entry key="php" value="21" />
+          <entry key="php" value="22" />
           <entry key="scss" value="44" />
         </counts>
       </usages-collector>
@@ -47,7 +41,7 @@
           <entry key="HTML" value="1" />
           <entry key="JSON" value="2" />
           <entry key="JavaScript" value="4" />
-          <entry key="PHP" value="21" />
+          <entry key="PHP" value="22" />
           <entry key="PLAIN_TEXT" value="1" />
           <entry key="SCSS" value="44" />
         </counts>
@@ -56,7 +50,7 @@
         <counts>
           <entry key="js" value="85" />
           <entry key="json" value="22" />
-          <entry key="php" value="3433" />
+          <entry key="php" value="3462" />
           <entry key="scss" value="2257" />
         </counts>
       </usages-collector>
@@ -65,7 +59,7 @@
           <entry key="HTML" value="5" />
           <entry key="JSON" value="22" />
           <entry key="JavaScript" value="85" />
-          <entry key="PHP" value="3428" />
+          <entry key="PHP" value="3457" />
           <entry key="SCSS" value="2257" />
         </counts>
       </usages-collector>
@@ -82,11 +76,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/assets/src/scss/pages/_projects.scss">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="25" column="23" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
+            <state relative-caret-position="345">
+              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/partials/header.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="225">
+              <caret line="15" column="72" selection-start-line="15" selection-start-column="72" selection-end-line="15" selection-end-column="72" />
             </state>
           </provider>
         </entry>
@@ -187,7 +190,6 @@
         <option value="$PROJECT_DIR$/assets/src/scss/typography/_fonts.scss" />
         <option value="$PROJECT_DIR$/partials/main.php" />
         <option value="$PROJECT_DIR$/assets/src/scss/base/_general.scss" />
-        <option value="$PROJECT_DIR$/partials/header.php" />
         <option value="$PROJECT_DIR$/assets/src/scss/partials/_header.scss" />
         <option value="$PROJECT_DIR$/assets/src/scss/variables/_grid-var.scss" />
         <option value="$PROJECT_DIR$/assets/src/scss/partials/_footer.scss" />
@@ -216,6 +218,7 @@
         <option value="$PROJECT_DIR$/templates/projects-template.php" />
         <option value="$PROJECT_DIR$/assets/src/scss/pages/_pages.scss" />
         <option value="$PROJECT_DIR$/assets/src/scss/pages/_projects.scss" />
+        <option value="$PROJECT_DIR$/partials/header.php" />
       </list>
     </option>
   </component>
@@ -371,12 +374,12 @@
       <workItem from="1616689906152" duration="2818000" />
       <workItem from="1616757010367" duration="17531000" />
       <workItem from="1617122502934" duration="4220000" />
-      <workItem from="1617197333307" duration="3967000" />
+      <workItem from="1617197333307" duration="4106000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="34484000" />
+    <option name="totallyTimeSpent" value="34623000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="25" width="1440" height="875" extended-state="6" />
@@ -545,13 +548,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/partials/header.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="41" selection-start-line="18" selection-start-column="37" selection-end-line="18" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/partials/head.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
@@ -692,8 +688,15 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assets/src/scss/pages/_projects.scss">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="23" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
+        <state relative-caret-position="345">
+          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/partials/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="72" selection-start-line="15" selection-start-column="72" selection-end-line="15" selection-end-column="72" />
         </state>
       </provider>
     </entry>

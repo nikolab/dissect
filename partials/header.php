@@ -9,11 +9,11 @@
                 <div class="tb-7 nav-links-logo">
                     <div class="tb-10 nav-bar">
                         <ul class="menu">
-                            <li class="menu-item"><a href="">Projects</a></li>
-                            <li class="menu-item"><a href="">Disciplines</a></li>
-                            <li class="menu-item"><a href="">Studio</a></li>
+                            <li class="menu-item"><a href="./projects.php">Projects</a></li>
+                            <li class="menu-item"><a href="./disciplines.php">Disciplines</a></li>
+                            <li class="menu-item"><a href="./studio.php">Studio</a></li>
                             <li class="menu-item"><a href="">Journal</a></li>
-                            <li class="menu-item"><a href="">Contact</a></li>
+                            <li class="menu-item"><a href="./contact.php">Contact</a></li>
                         </ul>
                     </div>
                     <div class="tb-2 logo">
