@@ -1,57 +1,82 @@
-.circle-holder {
-  display: flex;
-  padding: 160px 0;
-  background: #1c1c1c;
-  justify-content: center;
+.circle-strategy {
+  .img-label {
+    margin-bottom: 100px;
+  }
+}
 
-  .circle-1 {
-    margin-right: -100px;
-    text-align: left;
-    justify-content: flex-start;
+.brand-strategy {
+  margin-bottom: 180px;
 
-    &::before {
-      content: '01.';
-      left: 25px;
-      top: 25px;
-      padding: 20px;
-    }
+  .strategy-label,
+  .strategy-description {
+    margin-bottom: 42px;
+  }
+}
 
-    h4 {
-      margin-left: 25px;
+.circle-process {
+
+  .circle-holder {
+    padding: 250px 0;
+
+    .circle {
+      margin-right: 30px;
+      max-width: 260px;
+      height: 260px;
+
+      &:last-of-type {
+        margin-right: 0;
+      }
+
+      &::before {
+        top: 50%;
+        transform: translateY(-50%);
+        left: -2px;
+        padding: 25px 3px;
+      }
+
+      h4 {
+        max-width: initial;
+      }
     }
   }
+}
 
-  .circle-2 {
-    text-align: center;
+.problem-solving {
+  padding-top: 22px;
 
-    &::before {
-      content: '02.';
-      left: 50%;
-      transform: translateX(-50%);
-      top: -35px;
+  .questions {
+    margin-top: 80px;
+
+    li {
+      margin-bottom: 120px;
+
+      h1 {
+        margin-bottom: 36px;
+      }
+
+      a {
+        font-size: 22px;
+        text-transform: capitalize;
+      }
     }
   }
+}
 
-  .circle-3 {
-    margin-left: -100px;
-    text-align: right;
-    justify-content: flex-end;
+.pricing {
+  padding: 20px 0 120px;
 
-    &::before {
-      content: '03.';
-      left: auto;
-      right: 25px;
-      top: 25px;
-      padding: 20px;
-    }
+  .price {
+    font-size: em(180);
+  }
+}
 
-    h4 {
-      margin-right: 25px;
-    }
+.selected-clients {
+
+  .sc-title {
+    margin-bottom: 32px;
   }
 
-  .circle h4 {
-    max-width: 84px;
-    line-height: 1;
+  .client-img {
+    margin-bottom: 24px;
   }
 }

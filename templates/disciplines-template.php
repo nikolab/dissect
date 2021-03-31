@@ -11,7 +11,7 @@
 				<h4>Brand Experience</h4>
 			</div>
 		</div>
-		<h4>The Practice</h4>
+		<h4 class="img-label">The Practice</h4>
 	</div>
 </section>
 <section class="brand-strategy">
@@ -65,20 +65,19 @@
 <section class="circle-process">
 	<div class="wrapper-full">
 		<div class="circle-holder">
-			<div class="circle circle-1">
+			<div class="circle">
 				<h4>Brand Workshop</h4>
 			</div>
-			<div class="circle circle-2">
+			<div class="circle">
 				<h4>Conceptualization</h4>
 			</div>
-			<div class="circle circle-3">
+			<div class="circle">
 				<h4>Production</h4>
 			</div>
-			<div class="circle circle-3">
+			<div class="circle">
 				<h4>Delivery</h4>
 			</div>
 		</div>
-		<h4>The Practice</h4>
 	</div>
 </section>
 <section class="problem-solving">
@@ -120,7 +119,7 @@
                 <h5>Our Prices</h5>
             </div>
             <div class="tb-8">
-                <h1 class="price">30k - 300k</h1>
+                <h2 class="price">30k - 300k</h2>
                 <div class="holder price-info">
                     <p class="tb-6">Blah blabla is an international branding agency that specialises in brand strategy, brand design, identity, web, mobile design and packaging, working in close cooperation with clients. Our goal is a creation and development of long-lasting cent’s brand and their customers.</p>
                     <p class="tb-6">Blah blabla is an international branding agency that specialises in brand strategy, brand design, identity, web, mobile design and packaging, working in close cooperation with clients. Our goal is a creation and development of long-lasting cent’s brand and their customers.</p>
@@ -131,7 +130,7 @@
 </section>
 <section class="selected-clients">
     <div class="wrapper-full">
-        <h5>Selected Clients</h5>
+        <h5 class="sc-title">Selected Clients</h5>
         <div class="holder">
             <div class="tb-3 client-img"><a href=""><img src="./assets/images/video-reel-placeholder.jpg" alt="selected clients"></a></div>
             <div class="tb-3 client-img"><a href=""><img src="./assets/images/video-reel-placeholder.jpg" alt="selected clients"></a></div>
