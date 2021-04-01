@@ -5,6 +5,12 @@
 .main-header {
   padding-top: 15px;
   padding-bottom: 15px;
+  position: fixed;
+  left: 0;
+  right: 0;
+  top: 0;
+  z-index: 99;
+  transition: all ease .3s;
 }
 
 .site-info,
@@ -39,4 +45,14 @@
 
 .logo img {
   margin-left: auto;
+}
+
+/* scroll effects */
+
+.scroll-up {
+  transform: none;
+}
+
+.scroll-down {
+  transform: translate3d(0, -100%, 0);
 }

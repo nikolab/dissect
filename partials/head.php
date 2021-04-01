@@ -7,4 +7,6 @@
 	<meta http-equiv="X-UA-Compatible" content="ie=edge">
 	<title><?php echo TITLE; ?></title>
 	<link rel="stylesheet" href="./assets/css/style.css">
+    <script type="text/javascript" src="./assets/js/jquery.min.js"></script>
+    <script type="text/javascript" src="./assets/js/scripts.min.js"></script>
 </head>
