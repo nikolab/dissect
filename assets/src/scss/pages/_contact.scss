@@ -1,9 +1,12 @@
 // -----------------------------------------------------------------------------
-// This file contains all styles related to the pages.
+// This file contains all styles related to the contact page.
 // -----------------------------------------------------------------------------
 
-@import "home";
-@import "studio";
-@import "disciplines";
-@import "projects";
-@import "contact";
+.contact-address,
+.contact-directors {
+  padding: 64px 0;
+
+  a {
+    display: block;
+  }
+}
