@@ -1,10 +1,10 @@
 jQuery(document).ready(function () {
+    //show hide header on scroll
     const body = document.body;
     const header = document.querySelector('.main-header');
     const scrollUp = "scroll-up";
     const scrollDown = "scroll-down";
     let lastScroll = 0;
-    
 
     document.addEventListener('scroll', () => {
         const currentScroll = window.pageYOffset;
@@ -25,6 +25,20 @@ jQuery(document).ready(function () {
         lastScroll = currentScroll;
 
     });
+
+    //get clients current time
+    const currentTime = new Date();
+    const hours = currentTime.getHours();
+    let minutes = currentTime.getMinutes();
+    const showTime = document.querySelector('.clients-time');
+
+    if (minutes < 10) {
+        minutes = '0' + minutes;
+    }
+
+    const time = hours + ':' + minutes;
+    console.log(showTime);
+    showTime.insertAdjacentHTML('afterbegin', time);
 
 
 });

@@ -33,3 +33,8 @@
         </div>
     </div>
 </section>
+<section class="contact-location">
+    <div class="wrapper-full">
+        <h2>Novi Sad</h2>
+    </div>
+</section>

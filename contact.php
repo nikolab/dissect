@@ -5,5 +5,5 @@ require 'partials/head.php';
 require 'partials/header.php';
 require 'partials/hero.php';
 require 'templates/contact-template.php';
-require 'partials/footer.php';
+require 'partials/footer-contact.php';
 
