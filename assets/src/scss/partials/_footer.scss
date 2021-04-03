@@ -38,8 +38,11 @@
   margin-top: auto;
 }
 
+.social-links li a,
 .footer-email {
-  text-decoration: none;
+  &::after {
+    width: 0;
+  }
 }
 
 .social-links {
@@ -49,15 +52,14 @@
   li {
     margin-right: 50px;
 
-    &:last-of-type {
-      margin-right: 0;
+      &:last-of-type {
+        margin-right: 0;
+      }
+
     }
-    
-    a {
-      text-decoration: none;
-    }
+
   }
-}
+
 
 /* contact footer */
 .footer-contact {

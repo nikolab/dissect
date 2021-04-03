@@ -38,7 +38,15 @@
     }
     
     a {
-      text-decoration: none;
+      &::after {
+        display: none;
+      }
+
+      &:hover {
+        &::after {
+          display: block;
+        }
+      }
     }
   }
 }
