@@ -3,7 +3,9 @@
         <div class="wrapper-full">
             <div class="holder">
                 <div class="tb-5 site-info">
-                    <div class="site-title">We are dissect</div>
+                    <div class="site-title">
+                        <h3>We are dissect</h3>
+                    </div>
                     <div class="site-description">Branding and Design Studio Extraordinaire.</div>
                 </div>
                 <div class="tb-7 nav-links-logo">
@@ -17,7 +19,7 @@
                         </ul>
                     </div>
                     <div class="tb-2 logo">
-                        <img src="./assets/images/dissect-logo.png" alt="dissect-logo" class="logo-img">
+                        <a href="./"><img src="./assets/images/dissect-logo.png" alt="dissect-logo" class="logo-img"></a>
                     </div>
                 </div>
             </div>
