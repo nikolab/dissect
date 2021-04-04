@@ -5,7 +5,7 @@
                 <div class="project-holder">
                     <img src="./assets/images/video-reel-placeholder.jpg" alt="project">
                     <div class="project-info">
-                        <h5>Cimet Software</h5>
+                        <h3>Cimet Software</h3>
                         <p>Software Development Agency</p>
                     </div>
                 </div>
@@ -14,7 +14,7 @@
                 <div class="project-holder">
                     <img src="./assets/images/video-reel-placeholder.jpg" alt="project">
                     <div class="project-info">
-                        <h5>Cimet Software</h5>
+                        <h3>Cimet Software</h3>
                         <p>Software Development Agency</p>
                     </div>
                 </div>
@@ -23,7 +23,7 @@
                 <div class="project-holder">
                     <img src="./assets/images/video-reel-placeholder.jpg" alt="project">
                     <div class="project-info">
-                        <h5>Cimet Software</h5>
+                        <h3>Cimet Software</h3>
                         <p>Software Development Agency</p>
                     </div>
                 </div>
@@ -32,7 +32,7 @@
                 <div class="project-holder">
                     <img src="./assets/images/video-reel-placeholder.jpg" alt="project">
                     <div class="project-info">
-                        <h5>Cimet Software</h5>
+                        <h3>Cimet Software</h3>
                         <p>Software Development Agency</p>
                     </div>
                 </div>
@@ -43,7 +43,7 @@
 <section class="project-philosophy">
     <div class="wrapper-full">
         <h2>“Internal stakeholders are extremely impressed with dops.digital’s work. Customers can expect a highly capable, well-organized, and overall excellent team.”</h2>
-        <h5>Marko Andersen, Appy CEO</h5>
+        <h3>Marko Andersen, Appy CEO</h3>
     </div>
 </section>
 <section class="projects-showcase">
@@ -53,7 +53,7 @@
                 <div class="project-holder">
                     <img src="./assets/images/video-reel-placeholder.jpg" alt="project">
                     <div class="project-info">
-                        <h5>Cimet Software</h5>
+                        <h3>Cimet Software</h3>
                         <p>Software Development Agency</p>
                     </div>
                 </div>
@@ -62,7 +62,7 @@
                 <div class="project-holder">
                     <img src="./assets/images/video-reel-placeholder.jpg" alt="project">
                     <div class="project-info">
-                        <h5>Cimet Software</h5>
+                        <h3>Cimet Software</h3>
                         <p>Software Development Agency</p>
                     </div>
                 </div>
@@ -71,7 +71,7 @@
                 <div class="project-holder">
                     <img src="./assets/images/video-reel-placeholder.jpg" alt="project">
                     <div class="project-info">
-                        <h5>Cimet Software</h5>
+                        <h3>Cimet Software</h3>
                         <p>Software Development Agency</p>
                     </div>
                 </div>
@@ -80,7 +80,7 @@
                 <div class="project-holder">
                     <img src="./assets/images/video-reel-placeholder.jpg" alt="project">
                     <div class="project-info">
-                        <h5>Cimet Software</h5>
+                        <h3>Cimet Software</h3>
                         <p>Software Development Agency</p>
                     </div>
                 </div>
@@ -89,7 +89,7 @@
                 <div class="project-holder">
                     <img src="./assets/images/video-reel-placeholder.jpg" alt="project">
                     <div class="project-info">
-                        <h5>Cimet Software</h5>
+                        <h3>Cimet Software</h3>
                         <p>Software Development Agency</p>
                     </div>
                 </div>

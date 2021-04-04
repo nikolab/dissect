@@ -14,9 +14,9 @@
 				<h2>Holistic <br> Transparency <br> Clarity.</h2>
 			</div>
 			<div class="tb-6">
-				<p>We make Clarity. An international agency and consultancy is an international branding agency that specialises in brand strategy, brand design, identity, web, mobile design and packaging, working in close cooperation with clients. Our goal is a creation and development of long-lasting cent’s brand and their customers.</p>
-				<p>We make Clarity. An international agency and consultancy is an international branding agency that specialises in brand strategy, brand design, identity, web, mobile design and packaging, working in close cooperation with clients. Our goal is a creation and development of long-lasting cent’s brand and their customers.</p>
-				<p>We make Clarity. An international agency and consultancy is an international branding agency that specialises in brand strategy, brand design, identity, web, mobile design and packaging, working in close cooperation with clients. Our goal is a creation and development of long-lasting cent’s brand and their customers.</p>
+				<h3>We make Clarity. An international agency and consultancy is an international branding agency that specialises in brand strategy, brand design, identity, web, mobile design and packaging, working in close cooperation with clients. Our goal is a creation and development of long-lasting cent’s brand and their customers.</h3>
+				<h3>We make Clarity. An international agency and consultancy is an international branding agency that specialises in brand strategy, brand design, identity, web, mobile design and packaging, working in close cooperation with clients. Our goal is a creation and development of long-lasting cent’s brand and their customers.</h3>
+				<h3>We make Clarity. An international agency and consultancy is an international branding agency that specialises in brand strategy, brand design, identity, web, mobile design and packaging, working in close cooperation with clients. Our goal is a creation and development of long-lasting cent’s brand and their customers.</h3>
 			</div>
 		</div>
 	</div>
@@ -61,8 +61,8 @@
 			<div class="tb-4">
 				<h3>Clients we work with</h3>
 			</div>
-			<div class="tb-4"><p>Blah blabla is an international branding agency that specialises in brand strategy, brand design, identity, web, mobile design and packaging, working in close cooperation with clients. Our goal is a creation and development of long-lasting cent’s brand and their customers.</p></div>
-			<div class="tb-4"><p>Blah blabla is an international branding agency that specialises in brand strategy, brand design, identity, web, mobile design and packaging, working in close cooperation with clients. Our goal is a creation and development of long-lasting cent’s brand and their customers.</p></div>
+			<div class="tb-4"><h3>Blah blabla is an international branding agency that specialises in brand strategy, brand design, identity, web, mobile design and packaging, working in close cooperation with clients. Our goal is a creation and development of long-lasting cent’s brand and their customers.</h3></div>
+			<div class="tb-4"><h3>Blah blabla is an international branding agency that specialises in brand strategy, brand design, identity, web, mobile design and packaging, working in close cooperation with clients. Our goal is a creation and development of long-lasting cent’s brand and their customers.</h3></div>
 		</div>
 	</div>
 </section>

@@ -26,6 +26,11 @@
   a {
     margin-right: 20px;
   }
+
+  .clients-time {
+    justify-self: flex-end;
+    align-self: flex-end;
+  }
 }
 
 .footer-bottom,
@@ -69,7 +74,7 @@
     flex-direction: column;
 
     .social-connect {
-      margin: 136px 0;
+      margin: 70px 0;
       font-size: em(78);
       align-self: center;
       justify-self: center;

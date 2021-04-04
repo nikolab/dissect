@@ -13,8 +13,11 @@
 
     .project-info {
       display: flex;
-      justify-content: space-between;
+      //justify-content: space-between;
       align-items: baseline;
+      h3 {
+        margin-right: 15px;
+      }
     }
   }
 }

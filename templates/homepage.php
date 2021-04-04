@@ -5,9 +5,9 @@
 			<img src="./assets/images/video-reel-placeholder.jpg" alt="" class="tb-12 video-reel">
 		</div>
 			<div class="reel-info holder">
-				<h4 class="tb-6 reel-title">The practice</h4>
+				<h3 class="tb-6 reel-title">The practice</h3>
 				<div class="tb-6 reel-desc">
-					<h4>Dissect   specialises in brand identity systems, visual communication, web, print & digital experiences, and brand development. We help brands discover and define the story, visualize and verbalize it purposefuly, spread the message, and inspire.</h4>
+					<h3>Dissect   specialises in brand identity systems, visual communication, web, print & digital experiences, and brand development. We help brands discover and define the story, visualize and verbalize it purposefuly, spread the message, and inspire.</h3>
 					<a href="" class="read-more">Know more</a>
 				</div>
 			</div>

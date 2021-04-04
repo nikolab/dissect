@@ -17,12 +17,20 @@ jQuery(document).ready(function () {
             // down
             header.classList.remove(scrollUp);
             header.classList.add(scrollDown);
+
         } else if (currentScroll < lastScroll && header.classList.contains(scrollDown) || (window.innerHeight + window.pageYOffset) >= document.body.offsetHeight) {
             // up
             header.classList.remove(scrollDown);
             header.classList.add(scrollUp);
         }
         lastScroll = currentScroll;
+
+
+        //on scroll overlay the video/img reel
+        // const overlay = document.querySelector('.home-reel');
+        // const heroHeight = document.querySelector('.hero').offsetHeight;
+        //
+        // overlay.style.transform = "translateY(-" + currentScroll + "px)";
 
     });
 
@@ -39,6 +47,11 @@ jQuery(document).ready(function () {
     const time = hours + ':' + minutes;
     console.log(showTime);
     showTime.insertAdjacentHTML('afterbegin', time);
+
+
+
+        console.log('Overlay: ' + overlay);
+        console.log('scroll: ' + heroHeight);
 
 
 });
