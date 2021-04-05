@@ -46,13 +46,16 @@
 .social-links li a,
 .footer-email {
   &::after {
-    background: transparent;
-    transition-delay: 0.2s;
+    width: 0;
+    left: auto;
+    right: 0;
   }
 
   &:hover {
     &::after {
-      background: $white;
+      width: 100%;
+      left: 0;
+      right: auto;
     }
   }
 
