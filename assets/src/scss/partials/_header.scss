@@ -11,18 +11,24 @@
   top: 0;
   z-index: 99;
   transition: all ease .3s;
+
+  a {
+    &::after {
+      background: transparent;
+    }
+
+    &:hover {
+      &::after {
+        background: $white;
+      }
+    }
+  }
 }
 
-.site-info,
 .nav-links-logo,
 .menu {
   display: flex;
   flex-direction: row;
-}
-
-.site-info {
-  //justify-content: space-between;
-  align-items: baseline;
 }
 
 .nav-links-logo,
@@ -36,18 +42,6 @@
   
     &:last-of-type {
       margin-right: 0;
-    }
-    
-    a {
-      &::after {
-        display: none;
-      }
-
-      &:hover {
-        &::after {
-          display: block;
-        }
-      }
     }
   }
 }

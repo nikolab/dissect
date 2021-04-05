@@ -2,12 +2,13 @@
 	<header class="main-header">
         <div class="wrapper-full">
             <div class="holder">
-                <div class="tb-5 site-info">
-                    <div class="site-title">
-                        <h3>We are dissect</h3>
-                    </div>
-                    <div class="site-description">Branding and Design Studio Extraordinaire.</div>
+                <div class="tb-2 site-title">
+                    <h3><a href="./">We are dissect</a></h3>
                 </div>
+                <div class="tb-3 site-description">
+                    <p>Branding and Design Studio Extraordinaire.</p>
+                </div>
+
                 <div class="tb-7 nav-links-logo">
                     <div class="tb-10 nav-bar">
                         <ul class="menu">
