@@ -34,24 +34,4 @@ jQuery(document).ready(function () {
 
     });
 
-    //get clients current time
-    const currentTime = new Date();
-    const hours = currentTime.getHours();
-    let minutes = currentTime.getMinutes();
-    const showTime = document.querySelector('.clients-time');
-
-    if (minutes < 10) {
-        minutes = '0' + minutes;
-    }
-
-    const time = hours + ':' + minutes;
-    console.log(showTime);
-    showTime.insertAdjacentHTML('afterbegin', time);
-
-
-
-        console.log('Overlay: ' + overlay);
-        console.log('scroll: ' + heroHeight);
-
-
 });

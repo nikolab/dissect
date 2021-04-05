@@ -70,25 +70,41 @@
 .footer-contact {
 
   .footer-top {
-    display: flex;
-    flex-direction: column;
 
-    .social-connect {
-      margin: 70px 0;
-      font-size: em(78);
-      align-self: center;
-      justify-self: center;
-      line-height: 80px;
+    .social-connect-holder {
+      display: flex;
+      padding: 70px 0;
+      position: relative;
+      justify-content: center;
+
+      h3 {
+        position: absolute;
+        left: 0;
+      }
+
+      .social-connect {
+        font-size: em(78);
+        line-height: 80px;
+      }
     }
-  }
 
-  .clients-time {
-    font-size: em(265);
-    margin-left: auto;
-  }
+    .office-time {
+      display: flex;
+      justify-content: space-between;
 
-  a {
-    margin-right: 0;
+      .office-time-title {
+        margin-top: 36px;
+      }
+
+      .office-time-display {
+        font-size: em(285);
+        margin-top: auto;
+      }
+    }
+
+    a {
+      margin-right: 0;
+    }
   }
 }
 
