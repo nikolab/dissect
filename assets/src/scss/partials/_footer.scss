@@ -46,8 +46,15 @@
 .social-links li a,
 .footer-email {
   &::after {
-    width: 0;
+    background: transparent;
   }
+
+  &:hover {
+    &::after {
+      background: $white;
+    }
+  }
+
 }
 
 .social-links {
