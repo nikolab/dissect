@@ -15,6 +15,7 @@
   a {
     &::after {
       background: transparent;
+      transition-delay: 0.2s;
     }
 
     &:hover {
